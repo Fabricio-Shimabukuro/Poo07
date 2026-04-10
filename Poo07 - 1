@@ -1,0 +1,7 @@
+ O que e polimorfismo e qual sua utilização?
+
+Polimorfismo é a capacidade de diferentes classes utilizarem o mesmo método, mas com comportamentos diferentes. 
+Ele permite que objetos distintos sejam tratados de forma genérica, enquanto cada um executa sua própria implementação.
+
+Sua principal utilização é tornar o código mais flexível, organizado e fácil de manter, 
+reduzindo a necessidade de várias verificações e facilitando a criação de novas subclasses sem alterar o restante do sistema.
